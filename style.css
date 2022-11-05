@@ -29,6 +29,7 @@ section{
     box-shadow: 0 4px 8px 0 rgb(119, 118, 118), 0 6px 20px 0 rgb(117, 117, 117);
     padding: 100px;
     text-align: center;
+    padding-bottom:30px ;
 }
 h2{
     font-size: 3.0em;
@@ -49,7 +50,8 @@ h2{
     font-weight: bolder;
     padding: 10%;
     padding-top: 2%;
-    color:rgb(41, 41, 41)
+    color:rgb(41, 41, 41);
+    padding-bottom: 0px;
 }
 .pheading{
     font-weight: bolder;
